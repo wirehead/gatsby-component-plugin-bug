@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "gatsby": "^2.20.10",
+    "gatsby": "^2.32.13",
     "prop-types": "^15.7.2",
     "react": "^16.13.1"
   }
